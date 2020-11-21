@@ -1,0 +1,14 @@
+{
+    "20201031-F31" : {
+        "nama"  : "Jono",
+        "telp"  : "085321321324",
+        "kelas" : "First",
+        "Penerbangan": "Surabaya-Papua"
+    },
+    "20201023-E51" : {
+        "nama" : "Dono",
+        "telp" : "0929334738",
+        "kelas": "Economy",
+        "Penerbangan": "Palembang-Surabaya"
+    }
+}
